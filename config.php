@@ -7,7 +7,7 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $database = "todoNotes";
-$site_url="http://localhost/hacktoberfest2021/PHP_todo/";
+$site_url="http://localhost/PHP_todo/";
 
 //connection
 $conn = mysqli_connect($servername, $username, $password, $database);
